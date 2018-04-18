@@ -1,4 +1,10 @@
-Build Setup
+# vue-mp
+
+> 基于mpvue的小程序项目
+
+## Build Setup
+
+``` bash
 # install dependencies
 npm install
 
@@ -10,3 +16,4 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
+```
