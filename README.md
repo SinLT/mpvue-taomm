@@ -1,4 +1,4 @@
-# vue-mp
+# mpvue-taomm
 
 > 基于mpvue的小程序项目
 
